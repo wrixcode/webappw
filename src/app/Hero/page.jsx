@@ -4,7 +4,7 @@ import React from 'react';
 
 function Hero() {
   return (
-    <section className="bg-[#101125] text-white min-h-screen flex items-center justify-center px-6 py-12">
+    <section className="bg-[#101125]  text-white min-h-screen flex items-center justify-center px-6 py-12">
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
         Transforming Your Business Ideas <span className="text-blue-500">into Digital Success</span>
